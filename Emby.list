@@ -1,0 +1,9 @@
+# NAME: Emby
+# AUTHOR: liujiajie
+# REPO: quanx-rules
+# UPDATED: 2026-10-27
+# TOTAL: 2
+#
+# 守候影院 / Emby 分流
+host-suffix, cn2gias.uk, 守候影院
+host-keyword, emby, 守候影院
